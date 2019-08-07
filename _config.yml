@@ -27,7 +27,6 @@ projects:
     forks: true
     projects:
       - Curriculum-Vitae
-      - PythonAutomation
     # - repo-name
 
 #social_media.yml and social_media_share_url.html
