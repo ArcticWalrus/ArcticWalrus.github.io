@@ -54,8 +54,9 @@ topics:
     web_url: https://github.com/topics/haskell
     image_url: https://www.haskell.org/img/haskell-logo.svg
 
-  - name: Computer security
-    web_url: https://github.com/topics/security
+  - name: Linux Kernel
+    web_url : https://github.com/topics/linux
+    image_url : https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png
 
   - name: Python
     web_url: https://github.com/topics/python
